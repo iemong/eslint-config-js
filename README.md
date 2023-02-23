@@ -1,1 +1,1 @@
-# eslint-config-typescript
+# eslint-config-js
