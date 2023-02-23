@@ -8,7 +8,7 @@ module.exports = {
     es6: true,
     commonjs: true,
   },
-  extends: ["eslint:recommended", "prettier"],
+  extends: ["airbnb-base", "eslint:recommended", "prettier"],
   rules: {
     "no-console": 1,
   },
